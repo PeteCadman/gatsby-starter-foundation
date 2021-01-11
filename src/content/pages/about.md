@@ -3,15 +3,17 @@ template: about-page
 slug: /about
 title: About EDBKA
 ---
-Thank you! Now say "nuclear wessels"! No! Don't jump! A sexy mistake. Anyone who laughs is a communist!
+<!--StartFragment-->
 
-A true inspiration for the children. And when we woke up, we had these bodies. Moving along… Do a flip! Michelle, I don't regret this, but I bth rue and lament it.
+<p><strong>East Dorset Beekeepers Association covers, as its name implies, all areas in the eastern end of the county. We are affiliated to the Dorset County Beekeepers Association and also to the British Beekeepers Association</strong></p>
+
+
+
+<!--EndFragment-->
 
 ![Gathering for a hive inspection](/assets/gathering-for-hive-inspection.jpg "About us")
 
 <!--StartFragment-->
-
-<p><strong>East Dorset Beekeepers Association covers, as its name implies, all areas in the eastern end of the county. We are affiliated to the Dorset County Beekeepers Association and also to the British Beekeepers Association.<br>&nbsp;</strong></p>
 
 <p>The Association tries to help members by organising training whatever the level of experience, a programme of indoor meetings in the winter and practical demonstrations at our apiary in the open season. The Association also forms a platform where beekeepers can meet to discuss and follow up their common interest.</p>
 
