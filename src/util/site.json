@@ -5,7 +5,7 @@
     "description": "A website for East Dorset Bee Keepers Association",
     "siteUrl": "https://edbka-react.netlify.app",
     "image": "/assets/honeybee.jpg",
-    "iconimage": "/assets/stackrole.png",
+    "iconimage": "/assets/edbka-logo.jpg",
     "twitterUsername": "@eastdorsetbeeks"
   },
   "ga": "UA-XXXXXXXXX-X"
