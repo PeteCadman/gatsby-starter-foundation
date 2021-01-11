@@ -15,6 +15,10 @@ const MenuItems = [
     title: "About"
   },
   {
+    path: "/swarm",
+    title: "Swarms"
+  },
+  {
     path: "/blog",
     title: "Blog"
   },
