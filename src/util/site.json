@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "EDBKA",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "description": "A website for East Dorset Bee Keepers Association",
+    "siteUrl": "https://edbka-react.netlify.app",
+    "image": "/assets/honeybee.jpg",
+    "iconimage": "/assets/edbka-logo.jpg",
+    "twitterUsername": "@eastdorsetbeeks"
   },
   "ga": "UA-XXXXXXXXX-X"
 }
